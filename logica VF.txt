@@ -1,0 +1,24 @@
+x = 1,  A = 3, B =5 C = 8 D = 7
+
+
+e) (A>B ) ou ( C>B)
+3>5           8> 5
+V               V          V
+
+f) x>=2
+ V
+
+g) (x<1) e ( C>5)
+    F       V     F
+
+h) (D<0 ou ( C>5 )
+    F        V            V
+
+i) não( D > 3) ou não (B<7)
+      
+        7<3           5 > 7
+         F              F     F
+
+J) (A >B)  ou não(C >B )
+    3>5           8 <5
+     F             F           F
